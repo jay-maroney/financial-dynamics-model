@@ -2,6 +2,12 @@
 
 A mathematical model analyzing personal finance dynamics for a recent college graduate using systems of ordinary differential equations.
 
+## Paper
+
+Full paper available here:
+
+[Download the paper](financial_dynamics_ode_model.pdf)
+
 ## Model
 
 Three compartments:
@@ -31,6 +37,16 @@ Simulations compare financial strategies:
 2. Balanced saving strategy
 3. Aggressive early repayment
 
-## Paper
+## Simulation Results
 
-Full project paper included in repository.
+### Asset Growth
+
+![Assets](figures/assets_comparison.fig)
+
+### Total Wealth
+
+![Wealth](figures/wealth_comparison.fig)
+
+### Cash Dynamics
+
+![Cash](figures/cash_comparison.fig)
