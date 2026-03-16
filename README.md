@@ -41,12 +41,12 @@ Simulations compare financial strategies:
 
 ### Asset Growth
 
-![Assets](figures/assets_comparison.fig)
+![Assets](figures/assets_comparison.png)
 
 ### Total Wealth
 
-![Wealth](figures/wealth_comparison.fig)
+![Wealth](figures/wealth_comparison.png)
 
 ### Cash Dynamics
 
-![Cash](figures/cash_comparison.fig)
+![Cash](figures/cash_comparison.png)
