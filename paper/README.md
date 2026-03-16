@@ -1,3 +1,5 @@
-# Paper
+## Paper
 
-This folder contains the full paper for the financial dynamics ODE model.
+Full paper available here:
+
+[Download the paper](paper/Jay_Maroney_APMA_0355_Final_Project (9).pdf)
